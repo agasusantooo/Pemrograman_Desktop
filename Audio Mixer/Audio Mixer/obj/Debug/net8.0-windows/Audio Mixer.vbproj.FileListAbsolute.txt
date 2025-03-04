@@ -1,0 +1,18 @@
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\Audio Mixer\Audio Mixer\bin\Debug\net8.0-windows\Audio Mixer.exe
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\Audio Mixer\Audio Mixer\bin\Debug\net8.0-windows\Audio Mixer.deps.json
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\Audio Mixer\Audio Mixer\bin\Debug\net8.0-windows\Audio Mixer.runtimeconfig.json
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\Audio Mixer\Audio Mixer\bin\Debug\net8.0-windows\Audio Mixer.dll
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\Audio Mixer\Audio Mixer\bin\Debug\net8.0-windows\Audio Mixer.pdb
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\Audio Mixer\Audio Mixer\obj\Debug\net8.0-windows\Audio_Mixer.Form1.resources
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\Audio Mixer\Audio Mixer\obj\Debug\net8.0-windows\Audio_Mixer.Form2.resources
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\Audio Mixer\Audio Mixer\obj\Debug\net8.0-windows\Audio Mixer.vbproj.GenerateResource.cache
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\Audio Mixer\Audio Mixer\obj\Debug\net8.0-windows\Audio Mixer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\Audio Mixer\Audio Mixer\obj\Debug\net8.0-windows\Audio Mixer.AssemblyInfoInputs.cache
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\Audio Mixer\Audio Mixer\obj\Debug\net8.0-windows\Audio Mixer.AssemblyInfo.vb
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\Audio Mixer\Audio Mixer\obj\Debug\net8.0-windows\Audio Mixer.vbproj.CoreCompileInputs.cache
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\Audio Mixer\Audio Mixer\obj\Debug\net8.0-windows\Audio Mixer.sourcelink.json
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\Audio Mixer\Audio Mixer\obj\Debug\net8.0-windows\Audio Mixer.dll
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\Audio Mixer\Audio Mixer\obj\Debug\net8.0-windows\refint\Audio Mixer.dll
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\Audio Mixer\Audio Mixer\obj\Debug\net8.0-windows\Audio Mixer.pdb
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\Audio Mixer\Audio Mixer\obj\Debug\net8.0-windows\Audio Mixer.genruntimeconfig.cache
+D:\Sekolah\GitHub Desktop Repository\ProgDesk\Pemrograman_Desktop\Pemrograman_Desktop\Audio Mixer\Audio Mixer\obj\Debug\net8.0-windows\ref\Audio Mixer.dll
