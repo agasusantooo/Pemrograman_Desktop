@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|d:\\sekolah\\github desktop repository\\progdesk\\pemrograman_desktop\\pemrograman_desktop\\#folder pertemuan 6\\sistem informasi parkir\\sistem informasi parkir\\siparkir-main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|solutionrelative:siparkir-main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|d:\\sekolah\\github desktop repository\\progdesk\\pemrograman_desktop\\pemrograman_desktop\\#folder pertemuan 6\\sistem informasi parkir\\sistem informasi parkir\\siparkir-main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|solutionrelative:siparkir-main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|d:\\sekolah\\github desktop repository\\progdesk\\pemrograman_desktop\\pemrograman_desktop\\#folder pertemuan 6\\sistem informasi parkir\\sistem informasi parkir\\siparkir-main.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|solutionrelative:siparkir-main.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|d:\\sekolah\\github desktop repository\\progdesk\\pemrograman_desktop\\pemrograman_desktop\\#folder pertemuan 6\\sistem informasi parkir\\sistem informasi parkir\\siparkir-ubahprofil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|solutionrelative:siparkir-ubahprofil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|d:\\sekolah\\github desktop repository\\progdesk\\pemrograman_desktop\\pemrograman_desktop\\#folder pertemuan 6\\sistem informasi parkir\\sistem informasi parkir\\siparkir-ubahprofil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|solutionrelative:siparkir-ubahprofil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|d:\\sekolah\\github desktop repository\\progdesk\\pemrograman_desktop\\pemrograman_desktop\\#folder pertemuan 6\\sistem informasi parkir\\sistem informasi parkir\\siparkir-login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|solutionrelative:siparkir-login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|d:\\sekolah\\github desktop repository\\progdesk\\pemrograman_desktop\\pemrograman_desktop\\#folder pertemuan 6\\sistem informasi parkir\\sistem informasi parkir\\siparkir-login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|solutionrelative:siparkir-login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|d:\\sekolah\\github desktop repository\\progdesk\\pemrograman_desktop\\pemrograman_desktop\\#folder pertemuan 6\\sistem informasi parkir\\sistem informasi parkir\\siparkir-laporan pendapatan parkir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|solutionrelative:siparkir-laporan pendapatan parkir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|d:\\sekolah\\github desktop repository\\progdesk\\pemrograman_desktop\\pemrograman_desktop\\#folder pertemuan 6\\sistem informasi parkir\\sistem informasi parkir\\siparkir-laporan pendapatan parkir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|solutionrelative:siparkir-laporan pendapatan parkir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|d:\\sekolah\\github desktop repository\\progdesk\\pemrograman_desktop\\pemrograman_desktop\\#folder pertemuan 6\\sistem informasi parkir\\sistem informasi parkir\\siparkir-langganan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|solutionrelative:siparkir-langganan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|d:\\sekolah\\github desktop repository\\progdesk\\pemrograman_desktop\\pemrograman_desktop\\#folder pertemuan 6\\sistem informasi parkir\\sistem informasi parkir\\siparkir-langganan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{39CCDF4A-D76D-4BD9-9340-D6E534AFCC11}|Sistem Informasi Parkir.vbproj|solutionrelative:siparkir-langganan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SIParkir-Login.vb [Design]",
+              "DocumentMoniker": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-Login.vb",
+              "RelativeDocumentMoniker": "SIParkir-Login.vb",
+              "ToolTip": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-Login.vb [Design]",
+              "RelativeToolTip": "SIParkir-Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-11T17:02:01.622Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SIParkir-Main.vb",
+              "DocumentMoniker": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-Main.vb",
+              "RelativeDocumentMoniker": "SIParkir-Main.vb",
+              "ToolTip": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-Main.vb",
+              "RelativeToolTip": "SIParkir-Main.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-11T17:02:52.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SIParkir-Main.vb [Design]",
+              "DocumentMoniker": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-Main.vb",
+              "RelativeDocumentMoniker": "SIParkir-Main.vb",
+              "ToolTip": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-Main.vb [Design]",
+              "RelativeToolTip": "SIParkir-Main.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-11T17:02:33.773Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SIParkir-Main.Designer.vb",
+              "DocumentMoniker": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-Main.Designer.vb",
+              "RelativeDocumentMoniker": "SIParkir-Main.Designer.vb",
+              "ToolTip": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-Main.Designer.vb",
+              "RelativeToolTip": "SIParkir-Main.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-11T17:02:31.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SIParkir-UbahProfil.vb",
+              "DocumentMoniker": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-UbahProfil.vb",
+              "RelativeDocumentMoniker": "SIParkir-UbahProfil.vb",
+              "ToolTip": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-UbahProfil.vb",
+              "RelativeToolTip": "SIParkir-UbahProfil.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-11T17:02:26.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SIParkir-UbahProfil.vb [Design]",
+              "DocumentMoniker": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-UbahProfil.vb",
+              "RelativeDocumentMoniker": "SIParkir-UbahProfil.vb",
+              "ToolTip": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-UbahProfil.vb [Design]",
+              "RelativeToolTip": "SIParkir-UbahProfil.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-11T17:02:20.895Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SIParkir-Login.vb",
+              "DocumentMoniker": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-Login.vb",
+              "RelativeDocumentMoniker": "SIParkir-Login.vb",
+              "ToolTip": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-Login.vb",
+              "RelativeToolTip": "SIParkir-Login.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-11T17:02:06.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SIParkir-Laporan Pendapatan Parkir.vb",
+              "DocumentMoniker": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-Laporan Pendapatan Parkir.vb",
+              "RelativeDocumentMoniker": "SIParkir-Laporan Pendapatan Parkir.vb",
+              "ToolTip": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-Laporan Pendapatan Parkir.vb",
+              "RelativeToolTip": "SIParkir-Laporan Pendapatan Parkir.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-11T17:01:53.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SIParkir-Laporan Pendapatan Parkir.vb [Design]",
+              "DocumentMoniker": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-Laporan Pendapatan Parkir.vb",
+              "RelativeDocumentMoniker": "SIParkir-Laporan Pendapatan Parkir.vb",
+              "ToolTip": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-Laporan Pendapatan Parkir.vb [Design]",
+              "RelativeToolTip": "SIParkir-Laporan Pendapatan Parkir.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-11T17:01:51.639Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SIParkir-Langganan.vb",
+              "DocumentMoniker": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-Langganan.vb",
+              "RelativeDocumentMoniker": "SIParkir-Langganan.vb",
+              "ToolTip": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-Langganan.vb",
+              "RelativeToolTip": "SIParkir-Langganan.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-11T17:00:19.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SIParkir-Langganan.vb [Design]",
+              "DocumentMoniker": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-Langganan.vb",
+              "RelativeDocumentMoniker": "SIParkir-Langganan.vb",
+              "ToolTip": "D:\\Sekolah\\GitHub Desktop Repository\\ProgDesk\\Pemrograman_Desktop\\Pemrograman_Desktop\\#Folder Pertemuan 6\\Sistem Informasi Parkir\\Sistem Informasi Parkir\\SIParkir-Langganan.vb [Design]",
+              "RelativeToolTip": "SIParkir-Langganan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-11T17:00:10.986Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

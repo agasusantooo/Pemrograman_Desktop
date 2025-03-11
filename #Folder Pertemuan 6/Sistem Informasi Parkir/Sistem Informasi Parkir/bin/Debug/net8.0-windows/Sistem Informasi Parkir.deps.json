@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sistem Informasi Parkir/1.0.0": {
+        "runtime": {
+          "Sistem Informasi Parkir.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistem Informasi Parkir/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
